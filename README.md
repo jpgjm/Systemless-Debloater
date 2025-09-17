@@ -1,4 +1,5 @@
-Systemless Debloater（https://github.com/zgfg/SystemlessDebloater）
+Systemless Debloater
+https://github.com/zgfg/SystemlessDebloater
 
 Systemless_DeGoogler
 https://github.com/Systemless-DeBloaters/Systemless_DeGoogler
