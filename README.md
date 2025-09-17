@@ -1,3 +1,5 @@
+# Systemless-Debloater
+不要なシステムアプリを無効化します。
 # 謝辞
 [Systemless Debloater](https://github.com/zgfg/SystemlessDebloater)
 
