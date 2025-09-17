@@ -1,3 +1,4 @@
+# 謝辞
 [Systemless Debloater](https://github.com/zgfg/SystemlessDebloater)
 
 [Systemless_DeGoogler](https://github.com/Systemless-DeBloaters/Systemless_DeGoogler)
@@ -11,6 +12,7 @@
 [System App Nuker](https://github.com/chisewaguri/systemapp_nuker)
 
 [Tricky Addon - Update Target List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)
+
 上記から発想を得ました。
 すべては上記のプロジェクトに関わった人たちに感謝申し上げます。
 
