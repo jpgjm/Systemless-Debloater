@@ -7,7 +7,7 @@
 
 [termux-aapt](https://github.com/rendiix/termux-aapt)
 
-[JamesDSP (Cross-platform Audio Effect / Digital Signal Processing library](https://github.com/james34602/JamesDSPManager)
+[JamesDSP (Cross-platform Audio Effect / Digital Signal Processing library)](https://github.com/james34602/JamesDSPManager)
 
 [Anti bootloop](https://github.com/Magisk-Modules-Alt-Repo/abootloop/tree/v1.3.4)
 
