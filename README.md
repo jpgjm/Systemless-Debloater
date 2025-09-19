@@ -1,5 +1,6 @@
 # Systemless-Debloater
 不要なシステムアプリを無効化します。
+# SukiSU Ultra以外のルートマネージャーだと動作しません。原因は分かりません。
 # 謝辞
 [Systemless Debloater](https://github.com/zgfg/SystemlessDebloater)
 
