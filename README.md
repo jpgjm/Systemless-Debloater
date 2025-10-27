@@ -1,4 +1,5 @@
-# Systemless-Debloater
+> [!CAUTION]
+> Systemless-Debloater
 不要なシステムアプリを無効化します。
 # SukiSU Ultra以外のルートマネージャーだと大半のアプリアイコンを取得できません。
 # 謝辞
