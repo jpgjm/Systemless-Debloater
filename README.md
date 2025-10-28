@@ -22,7 +22,7 @@
 
 > [!NOTE]
 > 仕組み
-テキストにapkパスが書き込まれ、そのapkパスのアプリをmount --bind "$DummyApk" "$ApkPath"でダミーアプリに置き換えて無効化します。
+> テキストにapkパスが書き込まれ、そのapkパスのアプリをmount --bind "$DummyApk" "$ApkPath"でダミーアプリに置き換えて無効化します。
 
 > [!WARNING]
 > 必要不可欠なアプリを無効化してしまったら
