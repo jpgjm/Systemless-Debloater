@@ -2,8 +2,8 @@
 不要なシステムアプリを無効化します。
 > [!CAUTION]
 > SukiSU Ultra以外のルートマネージャーだと大半のアプリアイコンを取得できません。
-> <img width="1080" height="2520" alt="Image" src="https://github.com/user-attachments/assets/a7a699d5-4a65-4e71-b57f-156839697ec0" />
-<img width="1080" height="2520" alt="Image" src="https://github.com/user-attachments/assets/715ba352-7bf8-4211-ac57-a67ea81f3db8" />
+> <img width="1080" height="2520" alt="Image" src="https://github.com/user-attachments/assets/715ba352-7bf8-4211-ac57-a67ea81f3db8" />
+<img width="1080" height="2520" alt="Image" src="https://github.com/user-attachments/assets/a7a699d5-4a65-4e71-b57f-156839697ec0" />
 # 謝辞
 [Systemless Debloater](https://github.com/zgfg/SystemlessDebloater)
 
